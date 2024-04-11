@@ -1,0 +1,15 @@
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\bin\Debug\net8.0\Gerenciador de tarefas.Application.deps.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\bin\Debug\net8.0\Gerenciador de tarefas.Application.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\bin\Debug\net8.0\Gerenciador de tarefas.Application.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\bin\Debug\net8.0\Gerenciador de tarefas.Communication.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\bin\Debug\net8.0\Gerenciador de tarefas.Communication.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerencia.EB66C0A8.Up2Date
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\refint\Gerenciador de tarefas.Application.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\ref\Gerenciador de tarefas.Application.dll

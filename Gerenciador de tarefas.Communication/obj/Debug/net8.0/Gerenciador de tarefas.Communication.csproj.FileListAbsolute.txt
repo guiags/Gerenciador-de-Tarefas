@@ -1,0 +1,11 @@
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\bin\Debug\net8.0\Gerenciador de tarefas.Communication.deps.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\bin\Debug\net8.0\Gerenciador de tarefas.Communication.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\bin\Debug\net8.0\Gerenciador de tarefas.Communication.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\refint\Gerenciador de tarefas.Communication.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\ref\Gerenciador de tarefas.Communication.dll

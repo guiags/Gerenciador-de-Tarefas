@@ -1,0 +1,36 @@
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\appsettings.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.API.exe
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.API.deps.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.API.runtimeconfig.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.API.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.API.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.Application.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.Communication.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.Application.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\bin\Debug\net8.0\Gerenciador de tarefas.Communication.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets\msbuild.Gerenciador de tarefas.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Gerenciador de tarefas.API.props
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gerenciador de tarefas.API.props
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gerenciador de tarefas.API.props
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\scopedcss\bundle\Gerenciador de tarefas.API.styles.css
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerencia.E478E7A7.Up2Date
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\refint\Gerenciador de tarefas.API.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.pdb
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.genruntimeconfig.cache
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\ref\Gerenciador de tarefas.API.dll

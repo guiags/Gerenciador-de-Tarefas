@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C79979D7-B4D1-4430-A6AB-3C7AFBF9957C}|Gerenciador de tarefas.API\\Gerenciador de tarefas.API.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79979D7-B4D1-4430-A6AB-3C7AFBF9957C}|Gerenciador de tarefas.API\\Gerenciador de tarefas.API.csproj|solutionrelative:gerenciador de tarefas.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1B3404-FC60-42DC-A94E-194DBBDB99A3}|Gerenciador de tarefas.Communication\\Gerenciador de tarefas.Communication.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1B3404-FC60-42DC-A94E-194DBBDB99A3}|Gerenciador de tarefas.Communication\\Gerenciador de tarefas.Communication.csproj|solutionrelative:gerenciador de tarefas.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseErrorsJson.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.Communication\\Responses\\ResponseErrorsJson.cs",
+              "RelativeDocumentMoniker": "Gerenciador de tarefas.Communication\\Responses\\ResponseErrorsJson.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.Communication\\Responses\\ResponseErrorsJson.cs",
+              "RelativeToolTip": "Gerenciador de tarefas.Communication\\Responses\\ResponseErrorsJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:17:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:50:16.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
