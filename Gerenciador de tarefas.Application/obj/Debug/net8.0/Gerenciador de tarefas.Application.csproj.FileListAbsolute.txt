@@ -13,3 +13,4 @@ C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\refint\Gerenciador de tarefas.Application.dll
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.pdb
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\ref\Gerenciador de tarefas.Application.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Application\obj\Debug\net8.0\Gerenciador de tarefas.Application.sourcelink.json

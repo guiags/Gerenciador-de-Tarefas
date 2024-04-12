@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerenciador de tarefas.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82d35df96e3457cb87a840cb1970a111b5dbf72a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerenciador de tarefas.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerenciador de tarefas.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,8 @@
+﻿namespace Gerenciador_de_tarefas.Communication.Responses;
+
+public class ResponseShortTaskJson
+{
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public DateOnly Deadline { get; set; }
+}

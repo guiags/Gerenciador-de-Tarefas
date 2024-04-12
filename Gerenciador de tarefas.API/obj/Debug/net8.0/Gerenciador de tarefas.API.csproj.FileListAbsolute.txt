@@ -34,3 +34,4 @@ C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.pdb
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.genruntimeconfig.cache
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\ref\Gerenciador de tarefas.API.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.API\obj\Debug\net8.0\Gerenciador de tarefas.API.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\refint\Gerenciador de tarefas.Communication.dll
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.pdb
 C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\ref\Gerenciador de tarefas.Communication.dll
+C:\Users\guilh\Documents\Projects\Gerenciador de tarefas\Gerenciador de tarefas.Communication\obj\Debug\net8.0\Gerenciador de tarefas.Communication.sourcelink.json
