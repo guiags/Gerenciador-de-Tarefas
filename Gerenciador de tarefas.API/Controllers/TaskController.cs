@@ -1,6 +1,7 @@
 ﻿using Gerenciador_de_tarefas.Application.UseCases.Tasks.Delete;
 using Gerenciador_de_tarefas.Application.UseCases.Tasks.GetAll;
 using Gerenciador_de_tarefas.Application.UseCases.Tasks.Post;
+using Gerenciador_de_tarefas.Application.UseCases.Tasks.Put;
 using Gerenciador_de_tarefas.Communication.Requests;
 using Gerenciador_de_tarefas.Communication.Responses;
 using Microsoft.AspNetCore.Http;
@@ -60,4 +61,15 @@ public class TaskController : ControllerBase
         useCase.Execute(id);
         return NoContent();
     }
+
+    [HttpPut]
+    [ProducesResponseType(typeof(ResponseTaskJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
+    public IActionResult UpdateById(int id, RequestTaskJson request)
+    {
+        var useCase = new PutTaskById();
+        var ret = useCase.Execute(id, request);
+        return Ok(ret);
+    }
+
 }
