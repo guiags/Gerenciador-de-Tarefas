@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C79979D7-B4D1-4430-A6AB-3C7AFBF9957C}|Gerenciador de tarefas.API\\Gerenciador de tarefas.API.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C79979D7-B4D1-4430-A6AB-3C7AFBF9957C}|Gerenciador de tarefas.API\\Gerenciador de tarefas.API.csproj|solutionrelative:gerenciador de tarefas.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA403F7C-A00A-4F7E-87CE-8DE71BBADACC}|Gerenciador de tarefas.Application\\Gerenciador de tarefas.Application.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.application\\usecases\\tasks\\put\\puttaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA403F7C-A00A-4F7E-87CE-8DE71BBADACC}|Gerenciador de tarefas.Application\\Gerenciador de tarefas.Application.csproj|solutionrelative:gerenciador de tarefas.application\\usecases\\tasks\\put\\puttaskbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1B3404-FC60-42DC-A94E-194DBBDB99A3}|Gerenciador de tarefas.Communication\\Gerenciador de tarefas.Communication.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1B3404-FC60-42DC-A94E-194DBBDB99A3}|Gerenciador de tarefas.Communication\\Gerenciador de tarefas.Communication.csproj|solutionrelative:gerenciador de tarefas.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79979D7-B4D1-4430-A6AB-3C7AFBF9957C}|Gerenciador de tarefas.API\\Gerenciador de tarefas.API.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79979D7-B4D1-4430-A6AB-3C7AFBF9957C}|Gerenciador de tarefas.API\\Gerenciador de tarefas.API.csproj|solutionrelative:gerenciador de tarefas.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA403F7C-A00A-4F7E-87CE-8DE71BBADACC}|Gerenciador de tarefas.Application\\Gerenciador de tarefas.Application.csproj|c:\\users\\guilh\\documents\\projects\\gerenciador de tarefas\\gerenciador de tarefas.application\\usecases\\tasks\\post\\posttaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PutTaskById.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.Application\\UseCases\\Tasks\\Put\\PutTaskById.cs",
               "RelativeDocumentMoniker": "Gerenciador de tarefas.Application\\UseCases\\Tasks\\Put\\PutTaskById.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.Application\\UseCases\\Tasks\\Put\\PutTaskById.cs",
               "RelativeToolTip": "Gerenciador de tarefas.Application\\UseCases\\Tasks\\Put\\PutTaskById.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T01:42:18.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ResponseShortTaskJson.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.Communication\\Responses\\ResponseShortTaskJson.cs",
               "RelativeDocumentMoniker": "Gerenciador de tarefas.Communication\\Responses\\ResponseShortTaskJson.cs",
@@ -88,18 +88,17 @@
               "RelativeToolTip": "Gerenciador de tarefas.Application\\UseCases\\Tasks\\Post\\PostTaskUseCase.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T19:57:59.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T19:57:59.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\Gerenciador de tarefas\\Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Gerenciador de tarefas.API\\Controllers\\TaskController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAIwEcAAAASAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwEcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T23:50:16.468Z",
               "EditorCaption": ""
